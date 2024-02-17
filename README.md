@@ -43,8 +43,21 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
+    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="laravel" width="40" height="40"/> 
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+    </a>
+    <a href="https://trello.com/butler-automation" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="laravel" width="40" height="40"/> 
   </a>
 </p>
 <h3 align="left">Backend stack:</h3>
@@ -103,6 +116,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a> 
+  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="laravel" width="40" height="40"/> 
+  </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
   </a> 
