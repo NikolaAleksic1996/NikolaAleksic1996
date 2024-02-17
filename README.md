@@ -54,7 +54,7 @@
   </a>
     </a>
     <a href="https://trello.com/butler-automation" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="laravel" width="40" height="40"/> 
@@ -82,6 +82,15 @@
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/daisyui-logo/favicon-192.png" alt="tailwind" width="40" height="40"/> 
+  </a>
+    <a href="https://www.material-tailwind.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="tailwind" width="40" height="40"/> 
+  </a>
+    <a href="https://www.antforfigma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="tailwind" width="40" height="40"/> 
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
@@ -112,7 +121,13 @@
 <p align="left">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>
+    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="git" width="40" height="40"/> 
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a> 
