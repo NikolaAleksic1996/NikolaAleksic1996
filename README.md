@@ -1,23 +1,73 @@
+
 <h1 align="center">Hi everyone👋, I'm Johnny</h1>
 <h3 align="center">A passionate Fullstack Maestro in PHP, Laravel, Symfony and React JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaaleksic1996&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaaleksic1996" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikolaaleksic1996" alt="nikolaaleksic1996" /></a> </p>
+<h1 align="center">Languages</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,javascript&perline=2&them=dark" />
+  </a>
+</p>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 20px;">
+<h1 align="center">Tech Stack</h1>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
+    <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <h2 style="text-align: center;">Server-Side</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=php" alt="PHP" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;" />
+        </li>
+      </ul>
+    </div>
+    <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <h2 style="text-align: center;">Client-Side</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;" />
+        </li>
+      </ul>
+    </div>
+    <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <h2 style="text-align: center;">Database</h2>
+      <ul style="list-style: none; padding: 0;">
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 50px; height: 50px;" />
+        </li>
+        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;" />
+        </li>
+      </ul>
+    </div>
+</div>
+</body>
 
 - 🔭 I’m currently working as a Fullstack developer in [ThinkIT](https://thinkit.rs/)
 
-- 🌱 I’m currently learning **Node.js and Go**
-
-- 💬 Ask me about **Laravel and ReactJs**
+- 🌱 I’m currently learning **Python, GO and NodeJS**
 
 - 📫 How to reach me **aleksicnikola46@gmail.com**
 
 - ⚡ Fun fact **I'm pasionate futsal player**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
