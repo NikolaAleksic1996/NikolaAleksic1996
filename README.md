@@ -18,6 +18,15 @@
 <div>
     <img src="https://skillicons.dev/icons?i=phpstorm,webstorm,docker,kubernetes,kafka,git,github,gitlab,githubactions,sentry,postman,npm,gmail,windows&perline=7" alt="PHP" /> 
 </div>
+<h2>Social media</h2>
+<p align="left">
+<a href="https://linkedin.com/in/nikola-aleksi%c4%87-90b690181" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="PHP" /> 
+</a>
+<a href="https://instagram.com/n_aleksic96/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/n_aleksic96/" height="30" width="40" />
+</a>
+</p>
 </body>
 
 - 🔭 I’m currently working as a Fullstack developer in [ThinkIT](https://thinkit.rs/)
@@ -27,22 +36,6 @@
 - 📫 How to reach me **aleksicnikola46@gmail.com**
 
 - ⚡ Fun fact **I'm pasionate futsal player**
-
-<h3 align="left">Social media</h3>
-<p align="left">
-<a href="https://dev.to/nikolajohnny96" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikolajohnny96" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/nikola-aleksi%c4%87-90b690181" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikola-aleksi%c4%87-90b690181" height="30" width="40" />
-</a>
-<a href="https://fb.com/nikolaaleksa.aleksicii/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nikolaaleksa.aleksicii/" height="30" width="40" />
-</a>
-<a href="https://instagram.com/n_aleksic96/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/n_aleksic96/" height="30" width="40" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
