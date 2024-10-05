@@ -6,51 +6,12 @@
 
 <body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 20px;">
 <h1 align="center">Tech Stack</h1>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
-    <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h2 style="text-align: center;">Server-Side</h2>
-      <ul style="list-style: none; padding: 0;">
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=php" alt="PHP" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px;" />
-        </li>
-      </ul>
-    </div>
-    <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h2 style="text-align: center;">Client-Side</h2>
-      <ul style="list-style: none; padding: 0;">
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=react" alt="React" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;" />
-        </li>
-      </ul>
-    </div>
-    <div style="background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-      <h2 style="text-align: center;">Database</h2>
-      <ul style="list-style: none; padding: 0;">
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="width: 50px; height: 50px;" />
-        </li>
-        <li style="display: flex; justify-content: center; margin-bottom: 10px;">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;" />
-        </li>
-      </ul>
+<div>
+    <div>
+      <h2 style="text-align: center;">Server-Side &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Client-Side &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Database</h2>
+        <div >
+          <img src="https://skillicons.dev/icons?i=php,laravel,symfony,redis&perline=3" alt="PHP" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,tailwindcss&perline=3" alt="PHP" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql,redis,mongo,postgresql&perline=3" alt="PHP" />
+        </div>
     </div>
 </div>
 </body>
