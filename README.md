@@ -4,12 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolaaleksic1996&label=Profile%20views&color=0e75b6&style=flat" alt="nikolaaleksic1996" /> </p>
 
-<h1 align="center">Languages</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,javascript&perline=2&them=dark" />
-  </a>
-</p>
 <body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 20px;">
 <h1 align="center">Tech Stack</h1>
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
