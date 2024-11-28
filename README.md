@@ -23,9 +23,6 @@
     <a href="https://linkedin.com/in/nikola-aleksi%c4%87-90b690181" target="blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="PHP" /> 
     </a>
-    <a href="https://instagram.com/n_aleksic96/" target="blank">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="PHP" /> 
-    </a>
 </div>
     
 
